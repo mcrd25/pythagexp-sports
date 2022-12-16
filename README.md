@@ -12,7 +12,9 @@ You can read more about pythagorean expectation in sports here: https://en.wikip
 
 
 
-In sum, the Pythagorean expectation is a sports statistic that combines both offensive and defensive statistics to calculate how many runs/points/goals teams should have scored based on their performance. This metric is widely used in sports analytics
+In sum, the Pythagorean expectation is a sports statistic that combines both offensive and defensive statistics to calculate how many runs/points/goals teams should have scored based on their performance. This metric is widely used in sports analytics in the modern sports world 
+
+Please note, however, that the Pythagorean expectation is just a statistic and it does not guarantee wins or losses. Teams may still win games with a lower expected run differential or lose with a higher one. Ultimately, the Pythagorean expectation is just one of many sports analytics tools available to sports teams and organizations. Ultimately, sports analytics is only a part of the overall sports strategy, and it should be used in combination with other strategies for ultimate success 
 
 ## Built With
 
